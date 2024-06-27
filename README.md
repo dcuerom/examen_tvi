@@ -8,12 +8,14 @@ Este proyecto tiene como objetivo identificar patrones en los atributos de las c
 
 1. **Gráfico de Barras Apiladas**
    - Visualización de la frecuencia de las tonalidades de las canciones número uno de Spotify, agrupadas por escalas musicales, con una segunda representación que incluye la normalización de los datos.
+![image](https://github.com/dcuerom/examen_tvi/assets/109184602/2775d3e8-3cb1-4eb1-ac4e-9d3c59ce078d)
 
 2. **Gráfico de Líneas**
    - Gráficos que muestran la variación de danceabilidad, energía y positividad a lo largo del tiempo, agrupados por continente.
 
 3. **Gráfico de Calor**
    - Mapa de calor que representa el porcentaje de contenido explícito en las canciones de distintos países del mundo, con un enfoque específico en Sudamérica en una segunda visualización.
+   - 
 
 4. **Gráfico de Clústeres**
    - Visualización que agrupa los países sudamericanos con niveles similares de danceabilidad en el top 50 de Spotify.
